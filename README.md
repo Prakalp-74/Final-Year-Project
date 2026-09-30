@@ -87,6 +87,4 @@ _To be added after model training._
 
 Cloud deployment, mobile healthcare apps, and real-time clinical integration with PACS/EHR systems.
 
-## License
 
-For academic use. Add a license if you plan to make this public.
