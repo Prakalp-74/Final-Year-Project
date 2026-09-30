@@ -36,8 +36,9 @@ This project classifies brain MRI scans into four classes: **Glioma, Meningioma,
 
 ## Datasets
 
-- Kaggle Brain Tumor MRI Dataset (classification)
+- Kaggle Brain Tumor MRI Dataset (classification): [text](https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data)
 - BraTS (segmentation and multi-modal fusion)
+- Mendeley Data: [text](https://data.mendeley.com/datasets/4xs94489rw/1)
 
 Datasets are not stored in this repo. Download them and place them in `data/`.
 
